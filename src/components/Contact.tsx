@@ -28,7 +28,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">{t('contact.email')}</h4>
-                  <p className="text-slate-600">contact@script-forge.com</p>
+                  <p className="text-slate-600">scriptforge@mail.ru</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -37,7 +37,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">{t('contact.phone')}</h4>
-                  <p className="text-slate-600">+49 (0) 123 456 789</p>
+                  <p className="text-slate-600">+(374) 77269606</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -46,7 +46,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">{t('contact.office')}</h4>
-                  <p className="text-slate-600">Technologiepark 1, 10115 Berlin</p>
+                  <p className="text-slate-600">Azatutyan 1</p>
                 </div>
               </div>
             </div>
